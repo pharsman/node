@@ -1,11 +1,11 @@
 {
-  "name": "other-tutorial-2",
+  "name": "other-tutorial-3",
   "version": "1.0.0",
   "description": "node-course",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "author": "Tengo",
   "license": "ISC",
